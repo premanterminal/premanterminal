@@ -8,4 +8,12 @@
 - 😄 Pronouns: Pre-man Terminal
 - ⚡ Fun fact: I'm a cute little girl
 
+### DO YOU WANT TO TREAT ME? 🌟🌟🌟
+Is my code/project useful to you?
+https://saweria.co/premanterminal
+- 🍡 treat me a snack of $1 USD or 10K IDR
+- ☕ treat me a cup of coffee $2.5 USD or 25K IDR
+- 🍜 take me to lunch together $5 USD or 50K IDR
+- 🍱 take me to a fancy dinner $10 USD or 100K IDR 
 
+no treating me doesn't matter, if my code and project are useful to you I'm very happy 😁
