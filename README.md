@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Clean Code, Symfony and React.js
 - 👯 I’m looking to collaborate on remote working or opensource team
 - 💬 Ask me about Laravel, Flutter, C#, mysql, SQL Server, Bash script, awk , etc
-- 📫 How to reach me: premanterminal@protonmail.com
+- 📫 How to reach me: premanterminal@protonmail.com or https://stackoverflow.com/users/15311549/preman-terminal
 - 😄 Pronouns: Pre-man Terminal
 - ⚡ Fun fact: I'm a cute little girl
 
