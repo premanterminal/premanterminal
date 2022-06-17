@@ -7,8 +7,8 @@
 - 📫 How to reach me: premanterminal@protonmail.com or sf200594@gmail.com or https://stackoverflow.com/users/15311549/preman-terminal
 - 😄 Pronouns: Pre-man Terminal
 - ⚡ Fun fact: I'm a cute little girl
-- 😊 My Upwork Account Link: 
-![image](https://user-images.githubusercontent.com/78519830/154404415-7af140df-07e4-43f9-9a50-df6bb627de3d.png)
+<!-- - 😊 My Upwork Account Link: 
+![image](https://user-images.githubusercontent.com/78519830/154404415-7af140df-07e4-43f9-9a50-df6bb627de3d.png) -->
 
 
 ### DO YOU WANT TO TREAT ME? 🌟🌟🌟
